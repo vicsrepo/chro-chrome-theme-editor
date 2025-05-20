@@ -1,0 +1,153 @@
+## 🖌️ Chro Chrome Theme Editor – Vytvořte si vlastní motiv pro Chrome během pár minut
+
+**Chro Chrome Theme Editor** je jednoduchý a intuitivní online nástroj pro vytváření vlastních motivů pro prohlížeče založené na Chromiu, jako jsou Google Chrome, Microsoft Edge nebo Brave. Bez nutnosti instalace rozšíření či registrace umožňuje uživatelům přizpůsobit vzhled prohlížeče podle svých představ.
+
+**Chro Chrome Theme Editor** je ideální nástroj pro každého, kdo si chce rychle a jednoduše vytvořit vlastní motiv pro Chrome bez programování. Vyzkoušejte si ho a přetvořte svůj prohlížeč podle svého stylu.
+
+Níže naleznete detailní popis funkcí a rozhraní editoru **Chro Chrome Theme Studio** ("hold.url"), který umožňuje vytvářet vlastní motivy pro prohlížeč Google Chrome. Rozhraní je rozděleno do několika sekcí, které uživatelům poskytují kontrolu nad jednotlivými prvky vzhledu prohlížeče.
+
+---
+
+### ⚙️ Funkce a možnosti
+
+- **Okamžitý náhled** změn v reálném čase.
+  
+- **Stáhnout motiv** jako ZIP balíček připravený pro instalaci v prohlížeči.
+  
+- **Reset barev** na výchozí hodnoty.
+  
+- **Random generování nastavení** se základnímy standarty modernich webu (např. kontrast , čitelnost, pure color pallete).
+  
+- **Kompatibilita** s většinou Chromium prohlížečů.
+  
+
+---
+
+### **1. Hlavní náhledový panel (Preview Frame)**
+
+- **Funkce**: Zobrazuje vizuální náhled motivu v reálném čase. Simuluje vzhled prohlížeče Chrome s aktuálně zvolenými barvami a obrázky.
+  
+- **Prvky v náhledu**:
+  
+  - **Horní rám (Frame)**: Barva horního panelu (titulek okna a záložky).
+    
+  - **Záložky (Tabs)**: Aktivní/neaktivní záložky, jejich barva a styl.
+    
+  - **Adresní řádek (Omnibox)**: Barva pozadí a textu.
+    
+  - **Panel záložek (Bookmarks Bar)**: Vzhled panelu pod adresním řádkem.
+    
+  - **Pozadí nového panelu (New Tab Background)**: Náhled obrázku nebo barvy pozadí při otevření nové karty.
+    
+
+---
+
+### **2. Editor barev (Color Picker Sections)**
+
+#### a) **Frame Color**
+
+- **Funkce**: Nastavení barvy horního rámce prohlížeče (obsahuje tlačítka minimalizace, maximalizace a zavření okna).
+  
+- **Možnosti**:
+  
+  - Výběr barvy z palety.
+    
+  - Zadání HEX kódu.
+    
+  - Přizpůsobení průhlednosti (pokud je podporováno).
+    
+
+#### b) **Tab Color**
+
+- **Funkce**: Nastavení barev aktivních a neaktivních záložek.
+  
+- **Možnosti**:
+  
+  - Barva aktivní záložky (výchozí: bílá nebo dle motivu).
+    
+  - Barva neaktivních záložek (obvykle tmavší odstín).
+    
+  - Možnost synchronizace barev s horním rámcem.
+    
+
+#### c) **Toolbar Color**
+
+- **Funkce**: Nastavení barvy panelu nástrojů (adresní řádek, tlačítko zpět/vpřed).
+  
+- **Možnosti**:
+  
+  - Výběr barvy pro pozadí.
+    
+  - Nastavení barvy textu (pro kontrast).
+    
+
+---
+
+### **3. Sekce pozadí (Background Section)**
+
+- **Funkce**: Nastavení obrázku nebo barvy pozadí pro novou kartu.
+  
+- **Možnosti**:
+  
+  - **Upload Image**: Nahrání vlastního obrázku (formáty: JPG, PNG).
+    
+  - **Positioning**: Úprava pozice obrázku (vycentrovat, roztažení, dlaždice).
+    
+  - **Color Overlay**: Přidání barevného přechodu přes obrázek pro lepší čitelnost textu.
+    
+  - **Blur Effect**: Rozostření pozadí (volitelné).
+    
+
+---
+
+### **4. Pokročilé nastavení (Advanced Settings)**
+
+- **Funkce**: Detaily pro přizpůsobení specifických prvků:
+  
+  - **Theme Name**: Pojmenování motivu pro export.
+    
+  - **Theme ID**: Automaticky generované ID motivu (pro vývojáře).
+    
+  - **Custom CSS**: Možnost přidat vlastní CSS kód (pokročilí uživatelé).
+    
+
+---
+
+### **5. Tlačítka akcí (Action Buttons)**
+
+- **Reset**: Vrátí výchozí nastavení.
+  
+- **Preview**: Otevře náhled motivu v novém panelu prohlížeče.
+  
+- **Export Theme**: Generuje soubor `.crx` nebo `.zip` pro instalaci motivu do Chrome.
+  
+- **Share**: Sdílení motivu přes URL odkaz.
+  
+
+---
+
+### **6. Integrace s Chrome**
+
+- Po exportu lze motiv nainstalovat přímo do prohlížeče:
+  
+  1. Otevřete `chrome://extensions`.
+    
+  2. Přetáhněte soubor `.crx` nebo `.zip` do okna.
+    
+  3. Motiv se automaticky aktivuje.
+    
+
+---
+
+### **Tipy pro uživatele**
+
+- Pro harmonický vzhled používejte barvy s podobným odstínem.
+  
+- Pokud používáte obrázek na pozadí, zvolte rozlišení alespoň **1920x1080**.
+  
+- Kontrast mezi barvami záložek a textem zajišťuje čitelnost.
+  
+
+---
+
+Tento editor je optimalizován pro jednoduchost, ale nabízí dostatek možností pro personalizaci. V případě potíží s funkcionalitou doporučujeme aktualizovat prohlížeč nebo vyčistit cache.
